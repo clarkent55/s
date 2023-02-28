@@ -1,7 +1,7 @@
 /***
  * Dutchi zShop Minigame
  *
- * Requires jQuery for DOM manipulation
+ * Requires jQuery for DOM manipul
  *
  ***/
 
